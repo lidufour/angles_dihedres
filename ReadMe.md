@@ -6,8 +6,7 @@ Ce projet permet de calculer les angles dièdres (phi et psi) pour les résidus 
 
 ## 1. Structure des fichiers
 
--   **a. Répertoire `angles_diedres_cpp`:\
-    **
+-   **a. Répertoire `angles_diedres_cpp`:**\
 
 -   **`fct_calculs_diedres.py`**\
     Contient les fonctions pour calculer :
@@ -167,3 +166,4 @@ Rscript ramachandran_cpp.R
 
 -   **Noms** : Laura DUFOUR, Alix FRAGNER\
 -   Contact : [laura.dufour\@etu.u-paris.fr](mailto:laura.dufour@etu.u-paris.fr){.email}, [alix.fragner\@etu.u-paris.fr](mailto:alix.fragner@etu.u-paris.fr){.email}
+
